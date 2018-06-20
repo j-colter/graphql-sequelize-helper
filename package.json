@@ -2,9 +2,12 @@
   "name": "graphql-sequelize-helper",
   "author": "colter <f89688563@gmail.com>",
   "keywords": [
-    "graphql", "sequelize", "relay", "orm"
+    "graphql",
+    "sequelize",
+    "relay",
+    "orm"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index",
   "license": "MIT",
   "dependencies": {
