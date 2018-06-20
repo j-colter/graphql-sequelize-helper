@@ -4,3 +4,4 @@ yarn.lock
 .DS_Store
 .idea
 .npmignore
+src/
