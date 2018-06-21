@@ -8,6 +8,7 @@ graphql-sequelize-helper transform Sequelize models to GraphQL schemas that is c
 * yarn add graphql-sequelize-helper
 
 ### Useage & Demo
+full demo see <a href="https://github.com/j-colter/graphql-microservice">https://github.com/j-colter/graphql-microservice</a>
 ```js
 // define sequelize model
 import gsh from 'graphql-sequelize-helper'
@@ -124,4 +125,3 @@ export default (sequelize, DataTypes) => {
   }
 }
 ```
-full demo see <a href="https://github.com/j-colter/graphql-microservice">https://github.com/j-colter/graphql-microservice</a>
