@@ -5,7 +5,7 @@
     "GraphQL",
     "Sequelize",
     "Relay",
-    "Orm",
+    "ORM",
     "simple-graphql"
   ],
   "version": "0.0.5",
